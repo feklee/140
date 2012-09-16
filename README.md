@@ -4,8 +4,8 @@ Introduction
 Just for the fun of it: Apps that fit into 140 character Twitter/SMS messages.
 
 
-Apps
-====
+HTML apps
+=========
 
   * moire.html ([online][1o], [tweet][1t]): Moiré graphics
 
