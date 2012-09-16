@@ -4,12 +4,13 @@ Introduction
 Just for the fun of it: Apps that fit into 140 character Twitter/SMS messages.
 
 
-Entries
-=======
+Apps
+====
 
   * moire.html ([online][1o], [tweet][1t]): Moiré graphics
 
-  * oscillator.html ([online][2o], [tweet][2t]): damped oscillator
+  * oscillator.html ([online][2o], [tweet][2t]): animation of damped harmonic
+    oscillator
   
   * paint.html ([online][3o], [tweet][3t]): paint app (press Ctrl for pen-down
     in the upper left corner)
