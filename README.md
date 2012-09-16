@@ -11,7 +11,8 @@ Entries
 
   * oscillator.html ([online][2o], [tweet][2t]): damped oscillator
   
-  * paint.html ([online][3o], [tweet][3t]): paint app (press Ctrl for pen-down)
+  * paint.html ([online][3o], [tweet][3t]): paint app (press Ctrl for pen-down
+    in the upper left corner)
 
 
 Legal
@@ -31,7 +32,7 @@ CONDITIONS OF ANY KIND, either express or implied. See the License for the
 specific language governing permissions and limitations under the License.
 
 
-[1o]: http://feklee.github.com/140/morie.html
+[1o]: http://feklee.github.com/140/moire.html
 [1t]: http://twitter.com/feklee/status/246966634760265728
 [2o]: http://feklee.github.com/140/oscillator.html
 [2t]: http://twitter.com/feklee/status/246966664804040704
