@@ -7,13 +7,17 @@ Just for the fun of it: Apps that fit into 140 character Twitter/SMS messages.
 HTML apps
 =========
 
-  * moire.html ([online][1o], [tweet][1t]): Moiré graphics
+Tested with Firefox, Opera, Chrome (versions as of September 2012):
+
+  * moire.html ([online][1o], [tweet][1t]): moiré pattern
 
   * oscillator.html ([online][2o], [tweet][2t]): animation of damped harmonic
     oscillator
-  
+
   * paint.html ([online][3o], [tweet][3t]): paint app (press Ctrl for pen-down
     in the upper left corner)
+
+  * bounce.html ([online][4o], [tweet][4t]): bouncing ball animation
 
 
 Legal
@@ -39,3 +43,5 @@ specific language governing permissions and limitations under the License.
 [2t]: http://twitter.com/feklee/status/246966664804040704
 [3o]: http://feklee.github.com/140/paint.html
 [3t]: http://twitter.com/feklee/status/246966687692382208
+[4o]: http://feklee.github.com/140/bounce.html
+[4t]: https://twitter.com/feklee/status/247589492389732352
